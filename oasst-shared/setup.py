@@ -10,8 +10,8 @@ setup(
     packages=find_namespace_packages(),
     author="OASST Team",
     install_requires=[
-        "pydantic==1.9.1",
-        "aiohttp==3.8.3",
+        "pydantic==1.10.13",
+        "aiohttp==3.9.4",
         "aiohttp[speedups]",
     ],
 )
