@@ -9,5 +9,5 @@ python-dotenv==0.21.0
 scipy==1.8.1
 SQLAlchemy==1.4.41
 sqlmodel==0.0.8
-starlette==0.36.2
+starlette==0.40.0
 uvicorn==0.20.0
